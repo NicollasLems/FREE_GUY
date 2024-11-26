@@ -1,11 +1,11 @@
-# FREE_GUY
-Projeto realizado pelos alunos Nicollas Lemes de Matos e Maria Eduarda da Silva Souza.
+<h1>FREE GUY</h1>
 
-O projeto é uma adaptação da cena da luta entre o Guy e o Dude do filme FREE GUY
+<h3>Integrantes: Nicollas Lemes de Matos e Maria Eduarda da Silva Souza</h3> 
 
-![FightScene](https://github.com/user-attachments/assets/a46ee3e7-eed7-419b-8060-d1e229335972)
-
-O filme aborda como um NPC chamado Guy acaba adquirindo "vida própria" por meio de uma IA implementada pelos criadores originais do jogo cujo o qual teve o código roubado pelo Antwan, o CEO responsável pelo servidor de Free City
+<h3>Série: 2º ano de Programação de Jogos Digitais</h3>
+<br>
+<h3>- Tema:</h3>
+O filme aborda como um NPC chamado Guy acaba adquirindo "vida própria" por meio de uma IA implementada sem-querer pelos criadores originais do jogo cujo o qual teve o código roubado pelo Antwan, o CEO responsável pelo servidor de Free City 
 
 No nosso projeto, tentamos recriar a cena da luta final entre o Guy e o Dude (NPC criado pela empresa para aniquilar o Guy).
 Durante esse confronto, são mostrados diversos itens famosos da cultura POP do cinema e dos jogos, como o Sabre de Luz de Star Wars, a mão do Hulk, o escudo do Capitão América da MCU e também a Picareta Golpe Arco-Íris do Fortnite.
