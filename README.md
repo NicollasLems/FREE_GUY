@@ -27,7 +27,7 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 
 
 
-<h3>Assets utilizados:</h3>
+<h3>Assets e sites utilizados:</h3>
 
 - https://assetstore.unity.com/lists/assets-free-guy-4674020489037
  
