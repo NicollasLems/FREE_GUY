@@ -14,7 +14,9 @@ Na cena, o Dude tenta a todo momento matar o Guy a qualquer custo e quase conseg
 ![thumb-1920-1083765](https://github.com/user-attachments/assets/d843ef50-1359-4079-9ccf-ab9dc285248e)
 
 <h3>O que foi alterado entre o filme e a adpatção?</h3>
-Na adaptação mudamos vários elementos em relação ao filme como: 
+
+Na adaptação mudamos vários elementos em relação ao filme como:
+
 - Mudança de ambientação, tendo em vista que a batalha final no filme se passa em uma praia e no jogo passou a ser na cidade<br>
 - Redução da quantidade de itens usados na batalha<br>
 - Inserção de um inimigo diferente do Dude. 
