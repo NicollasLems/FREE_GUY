@@ -18,8 +18,14 @@ Na adaptação mudamos vários elementos em relação ao filme como: mudança de
 
 
 
+Lista de Assets utilizados:
+
+
 
 
 
 https://drive.google.com/file/d/1jr4RPJ4MuAKgpjuntYVwGjetvb3c9AMn/view?usp=sharing
-(Link do novo projeto)
+(Link do Projeto completo)
+
+
+
