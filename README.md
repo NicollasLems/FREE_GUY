@@ -5,7 +5,7 @@
 <h3>Série: 2º ano de Programação de Jogos Digitais</h3>
 <br>
 <h3>- Tema:</h3>
-O filme aborda como um NPC chamado Guy acaba adquirindo "vida própria" por meio de uma IA implementada sem-querer pelos criadores originais do jogo cujo o qual teve o código roubado pelo Antwan, o CEO responsável pelo servidor de Free City 
+O filme aborda como um NPC chamado Guy acaba adquirindo "vida própria" por meio de uma IA implementada sem-querer pelos criadores originais do jogo cujo o qual teve o código roubado pelo Antwan, o CEO responsável pelo servidor da atual Free City 
 
 No nosso projeto, tentamos recriar a cena da luta final entre o Guy e o Dude (NPC criado pela empresa para aniquilar o Guy).
 Durante esse confronto, são mostrados diversos itens famosos da cultura POP do cinema e dos jogos, como o Sabre de Luz de Star Wars, a mão do Hulk, o escudo do Capitão América da MCU e também a Picareta Golpe Arco-Íris do Fortnite.
@@ -13,8 +13,11 @@ Na cena, o Dude tenta a todo momento matar o Guy a qualquer custo e quase conseg
 
 ![thumb-1920-1083765](https://github.com/user-attachments/assets/d843ef50-1359-4079-9ccf-ab9dc285248e)
 
-
-Na adaptação mudamos vários elementos em relação ao filme como: mudança de ambientação, redução da quantidade de itens usados na batalha, inserção de um inimigo diferente do Dude.
+<h3>O que foi alterado entre o filme e a adpatção?</h3>
+Na adaptação mudamos vários elementos em relação ao filme como: 
+- Mudança de ambientação, tendo em vista que a batalha final no filme se passa em uma praia e no jogo passou a ser na cidade<br>
+- Redução da quantidade de itens usados na batalha<br>
+- Inserção de um inimigo diferente do Dude. 
 
 ![370f2704-8232-4ed3-81a6-627e0039465e](https://github.com/user-attachments/assets/4113fcd7-fe90-4ae8-a6dc-a34eb376f8d5)
 
