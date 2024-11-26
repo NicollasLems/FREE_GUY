@@ -19,6 +19,7 @@ Na adaptação mudamos vários elementos em relação ao filme como: mudança de
 
 
 Lista de Assets utilizados:
+ https://assetstore.unity.com/lists/assets-free-guy-4674020489037
 
 
 
