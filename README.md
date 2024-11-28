@@ -1,4 +1,4 @@
-<h1>FREE GUY</h1>
+<h1>Fight'n POP</h1>
 
 <h3>Integrantes: Nicollas Lemes de Matos e Maria Eduarda da Silva Souza</h3> 
 
@@ -47,6 +47,12 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 
 - https://sketchfab.com/3d-models/captain-america-shield-424d5f8beae34e2aa9ebccc5b1e06d26
 ![image](https://github.com/user-attachments/assets/89d94574-59bd-4883-a888-6a73d501cf3e)
+
+<h3>Nossa tela de menu!</h3>
+
+![Fight'n POP](https://github.com/user-attachments/assets/4ae13cfc-3525-479a-b84b-9e7c1379c1d7)
+
+
 
 
 <h3>Músicas utilizadas</h3>
