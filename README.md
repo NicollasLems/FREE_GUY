@@ -149,9 +149,9 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 
 
 >[!Important]
->- Opinião sobre os integrantes:
+> <h4>Opinião sobre os integrantes:</h4>
 >
-><h4>De Nicollas para Maria:</h4> 
+>- De Nicollas para Maria: 
 > Maria trabalhou na parte principalmente lógica do trabalho, como scripts e diagramação, além da gravação do vídeo e disponibilização das imagens para o readme,
 >  mostrou ser uma pessoa extremamente dedicada e cuidadosa durante a realização do projeto. Com certeza foi um elemento chave quando mais precisei, e tenho certeza que será
 >  uma ótima parceira de dupla para quem quiser trabalhar com ela. Sua nota é fácilmente um MB.
