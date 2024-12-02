@@ -149,11 +149,14 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 
 
 >[!Important]
->- Link do Jogo + Vídeo + Executável no drive: https://drive.google.com/drive/folders/1oV61_I7B29Es05SUUoCJAWRtW5a4yt9Y?usp=sharing
->
 >- Opinião sobre os integrantes:
 >
->  Maria trabalhou na parte principalmente lógica do trabalho, como scripts e diagramação, além da gravação do vídeo e disponibilização das imagens para o readme,
->mostrou ser uma pessoa extremamente dedicada e cuidadosa durante a realização do projeto. Com certeza foi um elemento chave quando mais precisei, e tenho certeza que será
->uma ótima parceira de dupla para quem quiser trabalhar com ela. Sua nota é fácilmente um MB.
+><h4>De Nicollas para Maria:</h4> 
+> Maria trabalhou na parte principalmente lógica do trabalho, como scripts e diagramação, além da gravação do vídeo e disponibilização das imagens para o readme,
+>  mostrou ser uma pessoa extremamente dedicada e cuidadosa durante a realização do projeto. Com certeza foi um elemento chave quando mais precisei, e tenho certeza que será
+>  uma ótima parceira de dupla para quem quiser trabalhar com ela. Sua nota é fácilmente um MB.
+>
+>
+>
+>- Link do Jogo + Vídeo + Executável no drive: https://drive.google.com/drive/folders/1oV61_I7B29Es05SUUoCJAWRtW5a4yt9Y?usp=sharing
 ![GuyVsDude](https://github.com/user-attachments/assets/d7c76677-4464-4155-bfed-4431ef40cd03)
