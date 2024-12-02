@@ -52,7 +52,8 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 
 <h3>➤ Criação de um menu</h3>
 
-![Fight'n POP](https://github.com/user-attachments/assets/4ae13cfc-3525-479a-b84b-9e7c1379c1d7)
+- Desenho do menu inicial
+  ![Fight'n POP](https://github.com/user-attachments/assets/4ae13cfc-3525-479a-b84b-9e7c1379c1d7)
 
 
 <h3>➤ Músicas</h3>
@@ -61,13 +62,75 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 - https://youtu.be/_D0ZQPqeJkk?si=0Yfcvd6Htlg-6vEN<br>
 - https://youtu.be/QtxeJ703w18?si=hiJeRVOyUrvjJzoR
 
-<h3>➤ Scripts</h3>
+<h3>➤ Scripts:</h3>
+
+
+![Captura de tela 2024-12-01 171630](https://github.com/user-attachments/assets/89827495-8a29-4015-8124-9df7c74496b4)
+
+
+<h4>Script do menu</h4>
+
+  
+![Captura de tela 2024-12-01 171945](https://github.com/user-attachments/assets/51913fb5-6882-46e4-8e2b-5aec19bc0aee)
+
+<h4>Scripts responsáveis pelo sistema de combate</h4>
+
+- MeeleAttack + animator
+
+![Captura de tela 2024-12-01 170854](https://github.com/user-attachments/assets/1eebe036-c493-4950-a5f9-620c58779bca)
+
+![Captura de tela 2024-12-01 171432](https://github.com/user-attachments/assets/4b736c56-a3f1-47fb-9d65-b1a4a6510f53)
+
+
+- Bullet
+
+
+![Captura de tela 2024-12-01 171712](https://github.com/user-attachments/assets/d91a8709-1ce8-4922-aaf3-64d569b7c26e)
+
+
+- EnemyDamage
+
+
+![Captura de tela 2024-12-01 171813](https://github.com/user-attachments/assets/748d5b2d-3bd9-4d81-adb0-92f2c166bf6e)
+
+
+- EnemyFollow
+
+
+![Captura de tela 2024-12-01 171846](https://github.com/user-attachments/assets/2ecadc60-8d30-4414-bb18-ca92639a0926)
+
+
+- Heal
+
+
+![Captura de tela 2024-12-01 171904](https://github.com/user-attachments/assets/51b4a186-e9a4-4964-837e-5557d774b9ed)
+
+
+- PlayerStats
+
+![Captura de tela 2024-12-01 172057](https://github.com/user-attachments/assets/9ea2de2a-cebb-47c2-996a-d8cc320dd20f)
+
+![Captura de tela 2024-12-01 172114](https://github.com/user-attachments/assets/cff7f1bf-736e-42c0-bde6-8be005adea44)
+
+
+
+<h4>Script do menu</h4>
+
+![Captura de tela 2024-12-01 171945](https://github.com/user-attachments/assets/bb352e2e-2562-4d2d-a815-1e50132eda0e)
+
+
+<h4>Sistema PickDrop (pegar e dropar)</h4>
+
+![Captura de tela 2024-12-01 172019](https://github.com/user-attachments/assets/e2c3a73b-c09f-4a02-a59a-c574bff78eae)
+
+![Captura de tela 2024-12-01 172038](https://github.com/user-attachments/assets/f5f2d22e-11ca-405d-bd57-42fd418932d3)
+
+
 
 
 >[!Important]
->- Vídeo do jogo:
+>- Vídeo do jogo: (insira aqui)
+>  
 >- Link do Jogo no drive: https://drive.google.com/file/d/1jr4RPJ4MuAKgpjuntYVwGjetvb3c9AMn/view?usp=sharing
 
 ![GuyVsDude](https://github.com/user-attachments/assets/d7c76677-4464-4155-bfed-4431ef40cd03)
-
-
