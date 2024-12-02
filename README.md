@@ -81,7 +81,7 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 
 ![Captura de tela 2024-12-01 171432](https://github.com/user-attachments/assets/4b736c56-a3f1-47fb-9d65-b1a4a6510f53)
 
-
+<p>Não funcionou como devia, mas ele destruia o inimigo pelo menos mesmo que a animação não fosse feita.</p>
 - Bullet
 
 
@@ -136,6 +136,7 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 
 ![ScriptErroPickDrop04](https://github.com/user-attachments/assets/142bd114-557d-4828-85f7-086ba2028325)
 
+<p>Essa parte foi feita com o intuito do obj (que é um retângulo bege) fazer a animação de "bater" ao clique do mouse mas não funcionou.</p>
 
 <h3>➤ Diagramas de Classe</h3>
 
@@ -155,7 +156,7 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 > Maria trabalhou na parte principalmente lógica do trabalho, como scripts e diagramação, além da gravação do vídeo e disponibilização das imagens para o readme,
 >  mostrou ser uma pessoa extremamente dedicada e cuidadosa durante a realização do projeto. Com certeza foi um elemento chave quando mais precisei, e tenho certeza que será
 >  uma ótima parceira de dupla para quem quiser trabalhar com ela. Sua nota é fácilmente um MB.
->
+>O Nicollas trabalhou na parte gráfica do jogo, como a cena, fez a pesquisa dos itens, além de também do readme. Mesmo não conseguindo ajudar as vezes por imprevistos, sempre se dispôs a ajudar e enquanto tentava achar outras alternativas do código funcionar ia começando outras partes do projeto para não atrasar e o projeto não conseguir ser entregue. Facilitou muito várias partes do projeto e cumpriu seu papel como parceiro/dupla, ele é um MB.
 >
 > <h4>FINALIZAÇÃO</h4>
 >- Link do Jogo + Vídeo + Executável no drive: https://drive.google.com/drive/folders/1oV61_I7B29Es05SUUoCJAWRtW5a4yt9Y?usp=sharing
