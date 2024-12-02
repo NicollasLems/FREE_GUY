@@ -125,7 +125,7 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 
 ![Captura de tela 2024-12-01 172038](https://github.com/user-attachments/assets/f5f2d22e-11ca-405d-bd57-42fd418932d3)
 
-<h3>Diagramas de Classe</h3>
+<h3>➤ Diagramas de Classe</h3>
 
 - Versão fisíca original
 
