@@ -157,6 +157,6 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 >  uma ótima parceira de dupla para quem quiser trabalhar com ela. Sua nota é fácilmente um MB.
 >
 >
->
+> <h4>FINALIZAÇÃO</h4>
 >- Link do Jogo + Vídeo + Executável no drive: https://drive.google.com/drive/folders/1oV61_I7B29Es05SUUoCJAWRtW5a4yt9Y?usp=sharing
 ![GuyVsDude](https://github.com/user-attachments/assets/d7c76677-4464-4155-bfed-4431ef40cd03)
