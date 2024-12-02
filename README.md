@@ -62,7 +62,7 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 - https://youtu.be/_D0ZQPqeJkk?si=0Yfcvd6Htlg-6vEN<br>
 - https://youtu.be/QtxeJ703w18?si=hiJeRVOyUrvjJzoR
 
-<h3>➤ Scripts:</h3>
+<h3>➤ Scripts</h3>
 
 
 ![Captura de tela 2024-12-01 171630](https://github.com/user-attachments/assets/89827495-8a29-4015-8124-9df7c74496b4)
@@ -125,6 +125,18 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 
 ![Captura de tela 2024-12-01 172038](https://github.com/user-attachments/assets/f5f2d22e-11ca-405d-bd57-42fd418932d3)
 
+
+<h3>➤ Erros de Script</h3>
+
+![ScriptErroPickDrop](https://github.com/user-attachments/assets/30afcdbc-1ef6-4838-a3bc-317db3ef6b29)
+
+![ScriptErroPickDrop02](https://github.com/user-attachments/assets/a0281e12-4363-4666-b31e-36bbde8f9e0d)
+
+![ScriptErroPickDrop03](https://github.com/user-attachments/assets/0efa2836-eb8b-469f-b760-e1148dd9dcc2)
+
+![ScriptErroPickDrop04](https://github.com/user-attachments/assets/142bd114-557d-4828-85f7-086ba2028325)
+
+
 <h3>➤ Diagramas de Classe</h3>
 
 - Versão fisíca original
@@ -137,8 +149,11 @@ Na adaptação mudamos vários elementos em relação ao filme como:
 
 
 >[!Important]
->- Vídeo do jogo: (insira aqui)
->  
->- Link do Jogo no drive: https://drive.google.com/file/d/1jr4RPJ4MuAKgpjuntYVwGjetvb3c9AMn/view?usp=sharing
-
+>- Link do Jogo + Vídeo + Executável no drive: https://drive.google.com/drive/folders/1oV61_I7B29Es05SUUoCJAWRtW5a4yt9Y?usp=sharing
+>
+>- Opinião sobre os integrantes:
+>
+>  Maria trabalhou na parte principalmente lógica do trabalho, como scripts e diagramação, além da gravação do vídeo e disponibilização das imagens para o readme,
+>mostrou ser uma pessoa extremamente dedicada e cuidadosa durante a realização do projeto. Com certeza foi um elemento chave quando mais precisei, e tenho certeza que será
+>uma ótima parceira de dupla para quem quiser trabalhar com ela. Sua nota é fácilmente um MB.
 ![GuyVsDude](https://github.com/user-attachments/assets/d7c76677-4464-4155-bfed-4431ef40cd03)
